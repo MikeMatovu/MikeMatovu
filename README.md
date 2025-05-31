@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Mike</h1>
 <h3 align="center">A Software engineer from Uganda</h3>
 
-I love building projects using JS/TS/Go/Kotlin/Python
+I build awesome projects with Ruby, PHP, Go and Kotlin
 
  #### Checkout my Portfolio : https://matovumike.vercel.app
 
